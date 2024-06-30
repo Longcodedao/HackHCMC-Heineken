@@ -1,0 +1,31 @@
+[
+   {
+      "image_id": "./images_testing/66506043_1708621535998.jpg",
+      "objects": {
+         "tiger_beer": 2,
+         "heineken_beer": 1,
+         "larue_beer": 3
+      },
+      "context": "The supermarket scene",
+      "environment": "Inside"
+   },
+   {
+      "image_id": "./images_testing/66505849_1708622937562.jpg",
+      "objects": {
+         "larue_beer": 3,
+         "tiger_beer": 1
+      },
+      "context": "The grocery store scene",
+      "environment": "Inside"
+   },
+   {
+      "image_id": "./images_testing/BZ1A2479.jpg",
+      "objects": {
+         "customer": 7,
+         "tiger_promotion": 2,
+         "tiger_beer": 4
+      },
+      "context": "The gathering scene",
+      "environment": "Inside"
+   }
+]
