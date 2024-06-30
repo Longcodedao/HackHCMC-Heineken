@@ -14,3 +14,9 @@ Heineken is looking to leverage image analysis to tackle key business and market
    ```bash
     pip install -r requirements.txt
     ```
+3. With the directory of the test images, we can run the inference.py file
+
+   ```bash
+    python inference.py --image_dir /path/towards_testing_images/
+   ```
+
